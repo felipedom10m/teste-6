@@ -3,10 +3,11 @@
   "produto": "teste-6",
   "upsells_comprados": [
     1,
-    "UPSELL-2"
+    "UPSELL-2",
+    "Bolo-Maracuja"
   ],
-  "data": "2025-08-20T21:57:38.798Z",
-  "transacao_id": "test-card-1755727058798",
+  "data": "2025-08-20T21:59:56.846Z",
+  "transacao_id": "test-card-1755727196846",
   "acesso_liberado": true,
   "nome": "teste teste",
   "cpf": "19100000000",
